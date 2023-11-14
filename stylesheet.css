@@ -125,3 +125,34 @@ button {
     text-align: end;
     font-weight: bold;
 }
+
+.footer-signup {
+    display: flex;
+    width: 100vw;
+    gap: 6rem;
+    justify-content: center;
+}
+
+.footer-content {
+    display: flex;
+    background-color: #3882f6;
+    margin: 32px;
+    gap: 10rem;
+    border-radius: 8px;
+}
+
+.text, .text1 {
+    padding: 8px;
+    color: #E5E7EB;
+}
+
+.footer-button {
+    margin: 12px 8px;
+}
+
+.footer {
+    text-align: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    padding: 16px;
+}
